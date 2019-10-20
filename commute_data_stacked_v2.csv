@@ -1,0 +1,313 @@
+State ID,State,Commute Type,Rate
+1,Alabama,Drive Alone,86.3
+1,Alabama,Carpool,7.9
+1,Alabama,Work at Home,3.5
+1,Alabama,Walk,1.1
+1,Alabama,Other Means,1
+1,Alabama,Public Transportation,0.3
+2,Alaska,Drive Alone,68
+2,Alaska,Carpool,12.3
+2,Alaska,Walk,7.8
+2,Alaska,Other Means,5.5
+2,Alaska,Work at Home,5.3
+2,Alaska,Public Transportation,1.2
+4,Arizona,Drive Alone,76.1
+4,Arizona,Carpool,11
+4,Arizona,Work at Home,6.8
+4,Arizona,Other Means,2.7
+4,Arizona,Public Transportation,1.7
+4,Arizona,Walk,1.7
+5,Arkansas,Drive Alone,82.6
+5,Arkansas,Carpool,10.4
+5,Arkansas,Work at Home,3.7
+5,Arkansas,Walk,1.5
+5,Arkansas,Other Means,1.3
+5,Arkansas,Public Transportation,0.4
+6,California,Drive Alone,73.8
+6,California,Carpool,10
+6,California,Work at Home,6
+6,California,Public Transportation,4.9
+6,California,Other Means,2.6
+6,California,Walk,2.6
+8,Colorado,Drive Alone,74.9
+8,Colorado,Carpool,8.6
+8,Colorado,Work at Home,8.6
+8,Colorado,Walk,3
+8,Colorado,Public Transportation,2.8
+8,Colorado,Other Means,2.2
+9,Connecticut,Drive Alone,77.9
+9,Connecticut,Carpool,8.1
+9,Connecticut,Work at Home,5.7
+9,Connecticut,Public Transportation,4.4
+9,Connecticut,Walk,2.6
+9,Connecticut,Other Means,1.2
+10,Delaware,Drive Alone,79.6
+10,Delaware,Carpool,9.1
+10,Delaware,Work at Home,5.7
+10,Delaware,Walk,2.4
+10,Delaware,Public Transportation,2.2
+10,Delaware,Other Means,1.1
+11,District of Columbia,Public Transportation,34.4
+11,District of Columbia,Drive Alone,34.2
+11,District of Columbia,Walk,13.3
+11,District of Columbia,Other Means,6.8
+11,District of Columbia,Work at Home,6.1
+11,District of Columbia,Carpool,5.1
+12,Florida,Drive Alone,79.1
+12,Florida,Carpool,9.4
+12,Florida,Work at Home,6.2
+12,Florida,Other Means,2.4
+12,Florida,Public Transportation,1.7
+12,Florida,Walk,1.4
+13,Georgia,Drive Alone,79.4
+13,Georgia,Carpool,9.4
+13,Georgia,Work at Home,5.9
+13,Georgia,Public Transportation,2
+13,Georgia,Other Means,1.8
+13,Georgia,Walk,1.5
+15,Hawaii,Drive Alone,67.3
+15,Hawaii,Carpool,14.7
+15,Hawaii,Public Transportation,5.7
+15,Hawaii,Work at Home,5.4
+15,Hawaii,Walk,3.7
+15,Hawaii,Other Means,3.2
+16,Idaho,Drive Alone,79.7
+16,Idaho,Carpool,8.9
+16,Idaho,Work at Home,6.2
+16,Idaho,Walk,2.5
+16,Idaho,Other Means,1.9
+16,Idaho,Public Transportation,0.8
+17,Illinois,Drive Alone,72.7
+17,Illinois,Public Transportation,9.4
+17,Illinois,Carpool,8.3
+17,Illinois,Work at Home,5.1
+17,Illinois,Walk,2.8
+17,Illinois,Other Means,1.7
+18,Indiana,Drive Alone,82.9
+18,Indiana,Carpool,8.9
+18,Indiana,Work at Home,3.9
+18,Indiana,Walk,1.9
+18,Indiana,Other Means,1.5
+18,Indiana,Public Transportation,0.9
+19,Iowa,Drive Alone,81.6
+19,Iowa,Carpool,8.1
+19,Iowa,Work at Home,5.1
+19,Iowa,Walk,3
+19,Iowa,Other Means,1.2
+19,Iowa,Public Transportation,1
+20,Kansas,Drive Alone,82
+20,Kansas,Carpool,9.3
+20,Kansas,Work at Home,4.8
+20,Kansas,Walk,2.2
+20,Kansas,Other Means,1.3
+20,Kansas,Public Transportation,0.5
+21,Kentucky,Drive Alone,82.4
+21,Kentucky,Carpool,9.4
+21,Kentucky,Work at Home,4.1
+21,Kentucky,Walk,2
+21,Kentucky,Other Means,1.2
+21,Kentucky,Public Transportation,1
+22,Louisiana,Drive Alone,82.7
+22,Louisiana,Carpool,9
+22,Louisiana,Work at Home,3.4
+22,Louisiana,Other Means,1.9
+22,Louisiana,Walk,1.8
+22,Louisiana,Public Transportation,1.2
+23,Maine,Drive Alone,77.8
+23,Maine,Carpool,9.9
+23,Maine,Work at Home,6
+23,Maine,Walk,4.1
+23,Maine,Other Means,1.7
+23,Maine,Public Transportation,0.6
+24,Maryland,Drive Alone,74.3
+24,Maryland,Carpool,8.8
+24,Maryland,Public Transportation,7.9
+24,Maryland,Work at Home,5.2
+24,Maryland,Walk,2.1
+24,Maryland,Other Means,1.6
+25,Massachusetts,Drive Alone,69.8
+25,Massachusetts,Public Transportation,10.2
+25,Massachusetts,Carpool,7.4
+25,Massachusetts,Work at Home,5.3
+25,Massachusetts,Walk,5.1
+25,Massachusetts,Other Means,2.2
+26,Michigan,Drive Alone,82
+26,Michigan,Carpool,8.9
+26,Michigan,Work at Home,4.1
+26,Michigan,Walk,2.3
+26,Michigan,Public Transportation,1.4
+26,Michigan,Other Means,1.3
+27,Minnesota,Drive Alone,77.7
+27,Minnesota,Carpool,8.4
+27,Minnesota,Work at Home,6.1
+27,Minnesota,Public Transportation,3.5
+27,Minnesota,Walk,2.8
+27,Minnesota,Other Means,1.5
+28,Mississippi,Drive Alone,85.5
+28,Mississippi,Carpool,8.9
+28,Mississippi,Work at Home,2.6
+28,Mississippi,Other Means,1.4
+28,Mississippi,Walk,1.4
+28,Mississippi,Public Transportation,0.3
+29,Missouri,Drive Alone,82.2
+29,Missouri,Carpool,8.4
+29,Missouri,Work at Home,4.8
+29,Missouri,Walk,2
+29,Missouri,Public Transportation,1.3
+29,Missouri,Other Means,1.2
+30,Montana,Drive Alone,74.9
+30,Montana,Carpool,9.5
+30,Montana,Work at Home,7.3
+30,Montana,Walk,5.5
+30,Montana,Other Means,2.1
+30,Montana,Public Transportation,0.8
+31,Nebraska,Drive Alone,82.1
+31,Nebraska,Carpool,8.7
+31,Nebraska,Work at Home,5.1
+31,Nebraska,Walk,2.5
+31,Nebraska,Other Means,1.1
+31,Nebraska,Public Transportation,0.6
+32,Nevada,Drive Alone,78.3
+32,Nevada,Carpool,10.5
+32,Nevada,Work at Home,4.2
+32,Nevada,Public Transportation,2.9
+32,Nevada,Other Means,2.4
+32,Nevada,Walk,1.8
+33,New Hampshire,Drive Alone,80.8
+33,New Hampshire,Carpool,7.4
+33,New Hampshire,Work at Home,6.9
+33,New Hampshire,Walk,2.6
+33,New Hampshire,Other Means,1.5
+33,New Hampshire,Public Transportation,0.9
+34,New Jersey,Drive Alone,70.9
+34,New Jersey,Public Transportation,11.7
+34,New Jersey,Carpool,8.2
+34,New Jersey,Work at Home,4.7
+34,New Jersey,Walk,2.6
+34,New Jersey,Other Means,2
+35,New Mexico,Drive Alone,79.3
+35,New Mexico,Carpool,11.2
+35,New Mexico,Work at Home,5.1
+35,New Mexico,Walk,1.8
+35,New Mexico,Other Means,1.5
+35,New Mexico,Public Transportation,1.1
+36,New York,Drive Alone,53.1
+36,New York,Public Transportation,28
+36,New York,Carpool,6.3
+36,New York,Walk,6
+36,New York,Work at Home,4.5
+36,New York,Other Means,2.1
+37,North Carolina,Drive Alone,80.6
+37,North Carolina,Carpool,9.3
+37,North Carolina,Work at Home,6
+37,North Carolina,Walk,1.8
+37,North Carolina,Other Means,1.2
+37,North Carolina,Public Transportation,1
+38,North Dakota,Drive Alone,82.2
+38,North Dakota,Carpool,8.7
+38,North Dakota,Work at Home,3.7
+38,North Dakota,Walk,3.4
+38,North Dakota,Other Means,1.2
+38,North Dakota,Public Transportation,0.7
+39,Ohio,Drive Alone,82.4
+39,Ohio,Carpool,8.2
+39,Ohio,Work at Home,4.4
+39,Ohio,Walk,2.2
+39,Ohio,Public Transportation,1.6
+39,Ohio,Other Means,1.2
+40,Oklahoma,Drive Alone,82.5
+40,Oklahoma,Carpool,9.5
+40,Oklahoma,Work at Home,4.1
+40,Oklahoma,Walk,2
+40,Oklahoma,Other Means,1.4
+40,Oklahoma,Public Transportation,0.5
+41,Oregon,Drive Alone,71.7
+41,Oregon,Carpool,9.5
+41,Oregon,Work at Home,7.5
+41,Oregon,Public Transportation,4.2
+41,Oregon,Walk,3.9
+41,Oregon,Other Means,3.2
+42,Pennsylvania,Drive Alone,75.6
+42,Pennsylvania,Carpool,8.5
+42,Pennsylvania,Public Transportation,5.8
+42,Pennsylvania,Work at Home,5.1
+42,Pennsylvania,Walk,3.5
+42,Pennsylvania,Other Means,1.5
+72,Puerto Rico,Drive Alone,84.2
+72,Puerto Rico,Carpool,7.9
+72,Puerto Rico,Work at Home,2.3
+72,Puerto Rico,Walk,2.1
+72,Puerto Rico,Public Transportation,1.8
+72,Puerto Rico,Other Means,1.8
+44,Rhode Island,Drive Alone,81.3
+44,Rhode Island,Carpool,8.1
+44,Rhode Island,Work at Home,3.7
+44,Rhode Island,Walk,3.4
+44,Rhode Island,Public Transportation,2.2
+44,Rhode Island,Other Means,1.2
+45,South Carolina,Drive Alone,81.4
+45,South Carolina,Carpool,9.4
+45,South Carolina,Work at Home,5
+45,South Carolina,Walk,2.1
+45,South Carolina,Other Means,1.5
+45,South Carolina,Public Transportation,0.6
+46,South Dakota,Drive Alone,81.1
+46,South Dakota,Carpool,8.8
+46,South Dakota,Work at Home,6.2
+46,South Dakota,Walk,2.8
+46,South Dakota,Other Means,0.9
+46,South Dakota,Public Transportation,0.2
+47,Tennessee,Drive Alone,83.1
+47,Tennessee,Carpool,9
+47,Tennessee,Work at Home,4.7
+47,Tennessee,Other Means,1.3
+47,Tennessee,Walk,1.3
+47,Tennessee,Public Transportation,0.6
+48,Texas,Drive Alone,80.7
+48,Texas,Carpool,9.8
+48,Texas,Work at Home,5.2
+48,Texas,Other Means,1.5
+48,Texas,Walk,1.5
+48,Texas,Public Transportation,1.3
+49,Utah,Drive Alone,75.7
+49,Utah,Carpool,11.1
+49,Utah,Work at Home,6.9
+49,Utah,Walk,2.4
+49,Utah,Public Transportation,2.2
+49,Utah,Other Means,1.6
+50,Vermont,Drive Alone,75.4
+50,Vermont,Carpool,9
+50,Vermont,Work at Home,7.5
+50,Vermont,Walk,5.2
+50,Vermont,Other Means,2.1
+50,Vermont,Public Transportation,0.9
+51,Virginia,Drive Alone,76.7
+51,Virginia,Carpool,9.1
+51,Virginia,Work at Home,5.6
+51,Virginia,Public Transportation,4.5
+51,Virginia,Walk,2.2
+51,Virginia,Other Means,1.9
+53,Washington,Drive Alone,71
+53,Washington,Carpool,9.8
+53,Washington,Public Transportation,7
+53,Washington,Work at Home,6.5
+53,Washington,Walk,3.7
+53,Washington,Other Means,2.1
+54,West Virginia,Drive Alone,83.3
+54,West Virginia,Carpool,8.6
+54,West Virginia,Work at Home,3.4
+54,West Virginia,Walk,2.6
+54,West Virginia,Other Means,1.3
+54,West Virginia,Public Transportation,0.9
+55,Wisconsin,Drive Alone,81.7
+55,Wisconsin,Carpool,7.5
+55,Wisconsin,Work at Home,4.8
+55,Wisconsin,Walk,2.9
+55,Wisconsin,Public Transportation,1.5
+55,Wisconsin,Other Means,1.5
+56,Wyoming,Drive Alone,75.8
+56,Wyoming,Carpool,10.2
+56,Wyoming,Work at Home,6.2
+56,Wyoming,Walk,4.3
+56,Wyoming,Other Means,2.3
+56,Wyoming,Public Transportation,1.2
